@@ -1,0 +1,4 @@
+map_log
+*.bat
+predict.py
+model/
