@@ -5,5 +5,4 @@ This repository includes code of implementation of Randomized Input Sampling for
 [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/abs/1806.07421)
 
 ## Examples
-![](https://github.com/wangkaihong/RISE_tensorflow/blob/master/food.jpg)
-![](https://github.com/wangkaihong/RISE_tensorflow/blob/master/map.jpg)
+<img src="https://github.com/wangkaihong/RISE_tensorflow/blob/master/food.jpg" height="350" width="370"><img src="https://github.com/wangkaihong/RISE_tensorflow/blob/master/map.jpg" height="370" width="470">
